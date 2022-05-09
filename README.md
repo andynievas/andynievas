@@ -1,6 +1,6 @@
-👋 Hola y bienvenido a mi perfil de Github, soy Andy, Fullstack Web Developer.
-🌱 Actualmente me encuentro en búsqueda laboral, pero siempre aprendiendo sobre desarrollo web tanto frontend como backend.
-📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/andy-nievas), o envíame un correo a nievasandy73@gmail.com.
+👋 Hola y bienvenido a mi perfil de Github, soy Andy, Fullstack Web Developer.  
+🌱 Actualmente me encuentro en búsqueda laboral, pero siempre aprendiendo sobre desarrollo web tanto frontend como backend.  
+📫 Contáctame en [LinkedIn](https://www.linkedin.com/in/andy-nievas), o envíame un correo a nievasandy73@gmail.com.  
 
 - Lenguajes y tecnologías:
 - HTML
